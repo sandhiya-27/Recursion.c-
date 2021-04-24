@@ -33,9 +33,6 @@ if (i==1)
           isPrime(num,i-1)
           }
 }
-
-
-
 num :456
 456is not a prime number .
    
